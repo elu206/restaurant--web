@@ -1,0 +1,22 @@
+body {
+  background-color: #FFECA6;
+  color: #003882;
+  font-family: sans-serif;
+  font-size: 150%
+}
+
+h1 {
+  font-family: 'Lemonada', cursive;
+  text-decoration-style: dashed;
+  text-decoration: underline;
+  text-align: center;
+}
+h2 {
+  font-family: 'Lemonada', cursive;
+}
+
+p {
+  font-family: 'Lemonada', cursive;
+  color: #2883fa;
+  text-align: center;
+}
